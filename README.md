@@ -22,3 +22,15 @@ Including the following
 ## Netlify Requirements
 
 ### Disable pretty URLs
+
+### Algolia Search
+
+#### Configure Search
+
+1. Submit details @ [Docsearch](https://docsearch.algolia.com/apply/)
+2. Update docusaurus.config.js with details
+
+Including the following
+    - appId
+    - apiKey
+    - indexName
